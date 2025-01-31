@@ -19,22 +19,26 @@
 
 ## ✨ Core Features
 
-- **🚀 Growth Identification Engine**: Proprietary AI algorithms scan market patterns to detect tokens with high growth potential before trends emerge
-- **🌌 Cosmic Command Hub**: Track contract addresses, developer wallets, and market caps with AI-powered DeepSeek analysis for strategic insights
-- **📈 Spacewalk Toolkit**: Monitor Dexscreener payments and access premium token profiles to spot emerging opportunities
-- **🧠 Celestial Navigator**: Real-time tracking of promotional boosts and investment patterns across exchanges
-- **🤖 Interstellar Assistant**: 24/7 AI companion providing instant analysis of market conditions and token fundamentals
+💎Cosmic Command Hub: 
+
+Effortlessly navigate through the contract address, developer wallet, and market cap, ensuring you have all the necessary resources for informed decision-making. Plus, benefit from concise, AI-driven analysis powered by DeepSeekAI, providing you with insightful descriptions about each token.
+
+💎Spacewalk Toolkit: 
+
+This powerful tool not only informs you whether Dexscreener has been paid but also provides the precise date of payment. Additionally, gain exclusive access to a curated list of the latest token profiles that have successfully utilized the Dexscreener service. With the Spacewalk Toolkit, you’ll be equipped to make informed decisions and stay ahead of the curve.
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1313203431166709882/1334647444197343274/logo.png?ex=679d4acb&is=679bf94b&hm=9e10fe58dc5faaacedb8c9f74d985a2f46778af05c362ca400587cd31d5a33d9&=&format=webp&quality=lossless" alt="Stellanova Banner" width="100%" />
 </div>
 
-## 💡 Key Advantages
+💎Interstellar Assistant:
 
-- 🔥 Early detection of trending tokens through predictive analytics
-- 💎 Curated watchlists of high-potential assets updated hourly
-- 🚨 Smart alerts for unusual market activity and whale movements
-- 📊 Institutional-grade analysis accessible to retail investors
-- ⚡ Real-time updates across 50+ DEXs and 100+ CEXs
+Your onboard AI service powered by DeepSeek. This intelligent companion is designed to answer all your questions related to the crypto universe, delivering comprehensive and insightful information at your fingertips. Whether you're seeking guidance on market trends, token analysis, or blockchain technology, the Interstellar Assistant is here to illuminate your journey through the cosmos of cryptocurrency!
+
+💎Celestial Navigator:
+
+Your ultimate tool for tracking which coins are currently investing in boosts on Dexscreener. Not only does it provide real-time insights into which tokens are paying for promotional boosts, but it also reveals the exact amounts they’re contributing. With this valuable information, you can gauge their potential visibility and performance on Dexscreener, empowering you to make informed trading decisions in the crypto cosmos!
+
+
 
 ## 🚀 Quick Start
 
